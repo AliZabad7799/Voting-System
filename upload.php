@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<!--
-Developed by Robert Anthonie C. Soriano
-
-Contact:
-
-Facebook: https://www.facebook.com/ThatixSC2
-Mobile: +63 905-848-0624
-Email: sorianorobertc@Gmail.com
-
-I am also open on thesis requests for a good price. Happy coding!
--->
 <?php
 require 'connection.php';
 if (isset($_POST['btn_upload']))
